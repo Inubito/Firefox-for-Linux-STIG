@@ -5,8 +5,8 @@
 	  "DisableFormHistory": true,
 	  "PasswordManagerEnabled": false,
 	  "PopupBlocking": {
-		        "Allow": ["http://example.mil/",
-				                "http://example.gov/"],
+		        "Allow": ["http://example.com/",
+				                "http://example.org/"],
 						      "Default": true,
 						            "Locked": true},
 	"InstallAddonsPermission": {
